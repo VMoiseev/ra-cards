@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-cards/static/css/main.669c7d2f.css",
+    "main.js": "/ra-cards/static/js/main.a47a0d2f.js",
+    "index.html": "/ra-cards/index.html",
+    "main.669c7d2f.css.map": "/ra-cards/static/css/main.669c7d2f.css.map",
+    "main.a47a0d2f.js.map": "/ra-cards/static/js/main.a47a0d2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.669c7d2f.css",
+    "static/js/main.a47a0d2f.js"
+  ]
+}
