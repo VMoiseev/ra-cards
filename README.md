@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k3n83y0djbdcil4k?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-cards)
+## [Проект](https://vmoiseev.github.io/ra-cards/)
+
+
 Карточки
 ===
 
